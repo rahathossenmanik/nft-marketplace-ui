@@ -1,18 +1,22 @@
 {
   "files": {
-    "main.css": "/bondstein-nft-marketplace/static/css/main.ee05d14b.css",
-    "main.js": "/bondstein-nft-marketplace/static/js/main.91d44776.js",
-    "static/js/787.58bf62f7.chunk.js": "/bondstein-nft-marketplace/static/js/787.58bf62f7.chunk.js",
-    "static/media/nft2.webp": "/bondstein-nft-marketplace/static/media/nft2.6deab44fc69572bb303b.webp",
-    "static/media/nft3.webp": "/bondstein-nft-marketplace/static/media/nft3.b381dfc497ee3bf50de3.webp",
-    "static/media/nft1.webp": "/bondstein-nft-marketplace/static/media/nft1.0cf7f5b3574e588ba56d.webp",
-    "index.html": "/bondstein-nft-marketplace/index.html",
-    "main.ee05d14b.css.map": "/bondstein-nft-marketplace/static/css/main.ee05d14b.css.map",
-    "main.91d44776.js.map": "/bondstein-nft-marketplace/static/js/main.91d44776.js.map",
-    "787.58bf62f7.chunk.js.map": "/bondstein-nft-marketplace/static/js/787.58bf62f7.chunk.js.map"
+    "main.css": "/nft-marketplace/static/css/main.e8cd3a46.css",
+    "main.js": "/nft-marketplace/static/js/main.ecbea195.js",
+    "static/js/787.70b1fdd7.chunk.js": "/nft-marketplace/static/js/787.70b1fdd7.chunk.js",
+    "static/media/nft4.webp": "/nft-marketplace/static/media/nft4.c0bc3efdd686048a08f4.webp",
+    "static/media/nft6.jpeg": "/nft-marketplace/static/media/nft6.f054fb9f377732c8c7b8.jpeg",
+    "static/media/nft5.jpg": "/nft-marketplace/static/media/nft5.862f124cc4ac26158653.jpg",
+    "static/media/nft1.jpg": "/nft-marketplace/static/media/nft1.bcc0a0ae4931f2869088.jpg",
+    "static/media/nft2.jpg": "/nft-marketplace/static/media/nft2.eae82ae562d7f9a9ef60.jpg",
+    "static/media/nft3.jpg": "/nft-marketplace/static/media/nft3.f9ffa2344bcb8ec0352d.jpg",
+    "static/media/nft7.webp": "/nft-marketplace/static/media/nft7.5565a1e9bd93a5d9073c.webp",
+    "index.html": "/nft-marketplace/index.html",
+    "main.e8cd3a46.css.map": "/nft-marketplace/static/css/main.e8cd3a46.css.map",
+    "main.ecbea195.js.map": "/nft-marketplace/static/js/main.ecbea195.js.map",
+    "787.70b1fdd7.chunk.js.map": "/nft-marketplace/static/js/787.70b1fdd7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee05d14b.css",
-    "static/js/main.91d44776.js"
+    "static/css/main.e8cd3a46.css",
+    "static/js/main.ecbea195.js"
   ]
 }
