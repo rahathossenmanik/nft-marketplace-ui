@@ -20,7 +20,7 @@ A high-performance, responsive **NFT Marketplace Web UI** built with **React**, 
 
 Check out the live site here:
 
-````bash
+```bash
 https://rahathossenmanik.github.io/nft-marketplace/
 ```
 
@@ -54,7 +54,7 @@ cd nft-marketplace
 
 **Install dependencies:**
 
-````bash
+```bash
 yarn install
 ```
 
@@ -144,4 +144,3 @@ Feel free to fork and modify.
 UI inspired by modern NFT marketplace designs
 
 Built with ❤️ using React & Tailwind CSS
-````
