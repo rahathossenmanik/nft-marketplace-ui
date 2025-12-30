@@ -21,7 +21,8 @@ A high-performance, responsive **NFT Marketplace Web UI** built with **React**, 
 Check out the live site here:
 
 ````bash
-https://rahathossenmanik.github.io/nft-marketplace/```
+https://rahathossenmanik.github.io/nft-marketplace/
+```
 
 ---
 
@@ -54,29 +55,34 @@ cd nft-marketplace
 **Install dependencies:**
 
 ````bash
-yarn install```
+yarn install
+```
 
 **Run the project locally:**
 
 ```bash
-yarn start```
+yarn start
+```
 
 _The app will be available at:_
 
 ```bash
-http://localhost:3000```
+http://localhost:3000
+```
 
 ## 🚀 Build & Deployment
 
 **Build the production version:**
 
 ```bash
-yarn build```
+yarn build
+```
 
 **Deploy to GitHub Pages:**
 
 ```bash
-yarn deploy```
+yarn deploy
+```
 
 ---
 
