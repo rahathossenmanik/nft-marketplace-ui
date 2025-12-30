@@ -1,46 +1,119 @@
-# Getting Started with Create React App
+# NFT Marketplace UI
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A high-performance, responsive **NFT Marketplace Web UI** built with **React**, **TypeScript**, and **Tailwind CSS**. This project is a pixel-perfect implementation of a Figma design, focusing on clean architecture and modern UI/UX principles.
 
-## Available Scripts
+> ⚠️ **Note:** This is a **UI-only project**. No blockchain integration, wallet connection, or backend logic is included.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## ✨ Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- 🖌️ **Figma-to-Code**: Pixel-perfect UI converted from Figma
+- ⚛️ **Modern & Type Safety**: Built with **React + TypeScript**
+- 🎨 **Responsive Design**: Styled using **Tailwind CSS**
+- ⏳ **Optimized Performance**: Minimal bundle size and fast load times.
+- 🚀 **Live View**: Deployed on **GitHub Pages**
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+---
 
-### `npm test`
+## 🚀 Live Demo
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Check out the live site here:  
+`https://rahathossenmanik.github.io/nft-marketplace/`
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🛠️ Tech Stack
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Framework:** [React](https://reactjs.org/)
+- **Language:** [TypeScript](https://www.typescriptlang.org/)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Icons:** [Iconify](https://iconify.design/)
+- **Deployment:** [GitHub Pages](https://pages.github.com/)
+- **Package Manager:** Yarn
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 🏗️ Getting Started
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Prerequisites
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Make sure you have [Node.js](https://nodejs.org/) and [Yarn](https://yarnpkg.com/) installed.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## 📦 Installation & Setup
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+**Clone the repository:**
 
-## Learn More
+```bash
+git clone https://github.com/rahathossenmanik/nft-marketplace.git
+cd nft-marketplace
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**Install dependencies:**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+`yarn install`
+
+**Run the project locally:**
+
+`yarn start`
+
+_The app will be available at:_
+
+`http://localhost:3000`
+
+## 🚀 Build & Deployment
+
+**Build the production version:**
+
+`yarn build`
+
+**Deploy to GitHub Pages:**
+
+`yarn deploy`
+
+---
+
+📁 Project Scope
+
+✔ UI components
+✔ Layout & responsiveness
+✔ Auction countdown visuals
+✔ NFT cards & listing pages
+
+❌ No smart contracts
+❌ No wallet connection
+❌ No backend / API
+
+---
+
+🎯 Purpose
+
+_This project was created to:_
+
+Practice design-to-code workflow
+Showcase frontend skills
+Build a portfolio-ready NFT marketplace UI
+Demonstrate clean, scalable React + Tailwind architecture
+
+---
+
+👨‍💻 Author
+
+Manik Hosen
+Frontend Engineer
+🌐 GitHub: https://github.com/rahathossenmanik
+🌐 Linkedin: https://www.linkedin.com/in/rahathossenmanik
+
+---
+
+📜 License
+
+This project is for educational and portfolio purposes only.
+Feel free to fork and modify.
+
+---
+
+🙌 Acknowledgements
+
+UI inspired by modern NFT marketplace designs
+Built with ❤️ using React & Tailwind CSS
