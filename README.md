@@ -18,8 +18,10 @@ A high-performance, responsive **NFT Marketplace Web UI** built with **React**, 
 
 ## 🚀 Live Demo
 
-Check out the live site here:  
-`https://rahathossenmanik.github.io/nft-marketplace/`
+Check out the live site here:
+
+````bash
+https://rahathossenmanik.github.io/nft-marketplace/```
 
 ---
 
@@ -47,41 +49,52 @@ Make sure you have [Node.js](https://nodejs.org/) and [Yarn](https://yarnpkg.com
 ```bash
 git clone https://github.com/rahathossenmanik/nft-marketplace.git
 cd nft-marketplace
-```
+````
 
 **Install dependencies:**
 
-`yarn install`
+````bash
+yarn install```
 
 **Run the project locally:**
 
-`yarn start`
+```bash
+yarn start```
 
 _The app will be available at:_
 
-`http://localhost:3000`
+```bash
+http://localhost:3000```
 
 ## 🚀 Build & Deployment
 
 **Build the production version:**
 
-`yarn build`
+```bash
+yarn build```
 
 **Deploy to GitHub Pages:**
 
-`yarn deploy`
+```bash
+yarn deploy```
 
 ---
 
 📁 Project Scope
 
 ✔ UI components
+
 ✔ Layout & responsiveness
+
 ✔ Auction countdown visuals
+
 ✔ NFT cards & listing pages
 
+
 ❌ No smart contracts
+
 ❌ No wallet connection
+
 ❌ No backend / API
 
 ---
@@ -91,8 +104,11 @@ _The app will be available at:_
 _This project was created to:_
 
 Practice design-to-code workflow
+
 Showcase frontend skills
+
 Build a portfolio-ready NFT marketplace UI
+
 Demonstrate clean, scalable React + Tailwind architecture
 
 ---
@@ -100,8 +116,11 @@ Demonstrate clean, scalable React + Tailwind architecture
 👨‍💻 Author
 
 Manik Hosen
+
 Frontend Engineer
+
 🌐 GitHub: https://github.com/rahathossenmanik
+
 🌐 Linkedin: https://www.linkedin.com/in/rahathossenmanik
 
 ---
@@ -109,6 +128,7 @@ Frontend Engineer
 📜 License
 
 This project is for educational and portfolio purposes only.
+
 Feel free to fork and modify.
 
 ---
@@ -116,4 +136,6 @@ Feel free to fork and modify.
 🙌 Acknowledgements
 
 UI inspired by modern NFT marketplace designs
+
 Built with ❤️ using React & Tailwind CSS
+````
