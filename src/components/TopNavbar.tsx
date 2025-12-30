@@ -13,11 +13,9 @@ const TopNavbar = () => {
     <nav className='bg-white border-b'>
       <div className='flex items-center space-x-8 py-3 px-4 max-w-screen-xl mx-auto md:px-8'>
         <div className='flex-none lg:flex-initial'>
-          <a
-            className='px-4 py-2 text-indigo-600 text-2xl font-extrabold duration-150 hover:text-indigo-500 active:text-indigo-700'
-            href='/'>
+          <span className='px-4 py-2 text-indigo-600 text-2xl font-extrabold duration-150 hover:text-indigo-500 active:text-indigo-700'>
             NFTERS
-          </a>
+          </span>
         </div>
         <div className='flex-1 flex items-center justify-between'>
           <div
@@ -25,8 +23,10 @@ const TopNavbar = () => {
               menuState ? '' : 'hidden'
             }`}>
             <ul className='mt-12 space-y-5 lg:flex lg:space-x-6 lg:space-y-0 lg:mt-0'>
-              {navigation.map((item, idx) => (
-                <li key={idx} className='text-gray-600 hover:text-gray-900'>
+              {navigation.map((item) => (
+                <li
+                  key={item.path}
+                  className='text-gray-600 hover:text-gray-900'>
                   <a href={item.path}>{item.title}</a>
                 </li>
               ))}
@@ -92,12 +92,12 @@ const TopNavbar = () => {
               menuState ? '' : 'hidden'
             }`}>
             <a
-              href='/'
+              href='?'
               className='px-4 py-2 text-white bg-indigo-600 rounded-full duration-150 hover:bg-white border border-indigo-600 hover:text-gray-700 active:shadow-lg'>
               Upload
             </a>
             <a
-              href='/'
+              href='?'
               className='px-4 py-2 text-gray-700 border rounded-full border-indigo-600 duration-150 hover:bg-indigo-600 hover:text-white active:shadow-lg'>
               Connect Wallet
             </a>

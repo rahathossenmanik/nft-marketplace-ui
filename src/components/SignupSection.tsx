@@ -49,11 +49,9 @@ const SignupSection = () => {
             diam ut. Pellentesque eu sit blandit fringilla risus faucibus.
           </p>
           <div>
-            <a
-              href='/'
-              className='px-5 py-3 text-white bg-indigo-600 rounded-full duration-150 hover:bg-white border border-indigo-600 hover:text-gray-700 active:shadow-lg'>
+            <button className='px-5 py-3 text-white bg-indigo-600 rounded-full duration-150 hover:bg-white border border-indigo-600 hover:text-gray-700 active:shadow-lg'>
               Sign Up Now
-            </a>
+            </button>
           </div>
         </div>
       </div>

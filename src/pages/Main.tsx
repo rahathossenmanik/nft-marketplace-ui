@@ -21,7 +21,7 @@ const Main = () => {
       <Footer />
       <div className='git-repo-ribbon'>
         <a
-          href='https://github.com/rahathossenmanik/bondstein-nft-marketplace'
+          href='https://github.com/rahathossenmanik/nft-marketplace-ui'
           target='_blank'
           rel='noreferrer'>
           View Repo in GitHub

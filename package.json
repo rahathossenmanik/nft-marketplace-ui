@@ -1,8 +1,8 @@
 {
-  "name": "bondstein-nft-marketplace",
+  "name": "nft-marketplace",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rahathossenmanik.github.io/bondstein-nft-marketplace",
+  "homepage": "https://rahathossenmanik.github.io/nft-marketplace",
   "dependencies": {
     "@iconify/react": "^4.1.1",
     "@testing-library/jest-dom": "^5.17.0",

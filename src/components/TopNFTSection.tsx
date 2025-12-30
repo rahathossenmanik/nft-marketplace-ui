@@ -77,23 +77,19 @@ const TopNFTSection = () => {
                           className='w-6 h-6 rounded-full'
                         />
                         <span className='block text-sm text-gray-600'>
-                          <a
-                            href='/'
-                            className='flex items-center text-green-600 font-semibold text-sm border border-green-400 rounded-lg px-2 py-1 duration-150 bg-white hover:bg-green-100'>
+                          <button className='flex items-center text-green-600 font-semibold text-sm border border-green-400 rounded-lg px-2 py-1 duration-150 bg-white hover:bg-green-100'>
                             <Icon
                               icon='majesticons:etherium-circle-line'
                               className='inline me-2'
                             />
                             0.25 ETH
-                          </a>
+                          </button>
                         </span>
                       </div>
                       <div className='mt-2'>
-                        <a
-                          href='/'
-                          className='mt-3 px-3 py-1 text-gray-700 border rounded-full border-indigo-600 duration-150 hover:bg-indigo-600 hover:text-white active:shadow-lg'>
+                        <button className='mt-3 px-3 py-1 text-gray-700 border rounded-full border-indigo-600 duration-150 hover:bg-indigo-600 hover:text-white active:shadow-lg'>
                           Place a Bid
-                        </a>
+                        </button>
                       </div>
                     </div>
                   </div>

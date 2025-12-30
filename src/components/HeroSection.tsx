@@ -6,19 +6,17 @@ const HeroSection = () => {
     <section className='mt-24 mx-auto relative max-w-screen-xl pb-4 px-4 items-center lg:flex md:px-8'>
       <div className='space-y-4 flex-1 sm:text-center lg:text-left'>
         <h1 className='text-gray-800 font-bold text-4xl xl:text-5xl'>
-          DISCOVER, AND COLLECT DIGITAL ART
-          <span className='text-indigo-600'> NFT</span>S
+          <span>DISCOVER, AND COLLECT DIGITAL ART </span>
+          <span className='text-indigo-600'>NFT</span>S
         </h1>
         <p className='text-gray-500 max-w-xl leading-relaxed sm:mx-auto lg:ml-0'>
           Digital marketplace for crypto collectibles and non-fungible tokens
           (NFTs). Buy, sell, and discover exclusive digital assets.
         </p>
         <div className='pt-3'>
-          <a
-            href='/'
-            className='px-5 py-3 text-white bg-indigo-600 rounded-full duration-150 hover:bg-white border border-indigo-600 hover:text-gray-700 active:shadow-lg'>
+          <button className='px-5 py-3 text-white bg-indigo-600 rounded-full duration-150 hover:bg-white border border-indigo-600 hover:text-gray-700 active:shadow-lg'>
             Explore Now
-          </a>
+          </button>
         </div>
         <div className='pt-3 flex items-center justify-left space-x-4 md:space-x-8'>
           <div className='flex items-center flex-col'>

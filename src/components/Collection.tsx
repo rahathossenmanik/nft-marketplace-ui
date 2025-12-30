@@ -58,11 +58,9 @@ const Collection = () => {
                 <p className='text-gray-500'>by Arkhan</p>
               </div>
               <div className='flex items-center'>
-                <a
-                  href='/'
-                  className='px-5 py-3 text-white bg-indigo-600 rounded-full duration-150 hover:bg-white border border-indigo-600 hover:text-gray-700 active:shadow-lg'>
+                <button className='px-5 py-3 text-white bg-indigo-600 rounded-full duration-150 hover:bg-white border border-indigo-600 hover:text-gray-700 active:shadow-lg'>
                   Total 54 items
-                </a>
+                </button>
               </div>
             </div>
           </div>
@@ -117,11 +115,9 @@ const Collection = () => {
                 <p className='text-gray-500'>by Arkhan</p>
               </div>
               <div className='flex items-center'>
-                <a
-                  href='/'
-                  className='px-5 py-3 text-white bg-indigo-600 rounded-full duration-150 hover:bg-white border border-indigo-600 hover:text-gray-700 active:shadow-lg'>
+                <button className='px-5 py-3 text-white bg-indigo-600 rounded-full duration-150 hover:bg-white border border-indigo-600 hover:text-gray-700 active:shadow-lg'>
                   Total 54 items
-                </a>
+                </button>
               </div>
             </div>
           </div>
@@ -176,11 +172,9 @@ const Collection = () => {
                 <p className='text-gray-500'>by Arkhan</p>
               </div>
               <div className='flex items-center'>
-                <a
-                  href='/'
-                  className='px-5 py-3 text-white bg-indigo-600 rounded-full duration-150 hover:bg-white border border-indigo-600 hover:text-gray-700 active:shadow-lg'>
+                <button className='px-5 py-3 text-white bg-indigo-600 rounded-full duration-150 hover:bg-white border border-indigo-600 hover:text-gray-700 active:shadow-lg'>
                   Total 54 items
-                </a>
+                </button>
               </div>
             </div>
           </div>

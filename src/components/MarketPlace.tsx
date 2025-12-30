@@ -10,49 +10,33 @@ const MarketPlace = () => {
           <h2 className='text-4xl font-bold'>DISCOVER MORE NFTS</h2>
         </div>
         <div className='flex justify-left gap-2 mb-8'>
-          <a
-            href='/'
-            className='mt-3 px-3 py-1 text-gray-700 rounded-full duration-150 bg-indigo-50 hover:bg-indigo-600 hover:text-white active:shadow-lg'>
+          <button className='mt-3 px-3 py-1 text-gray-700 rounded-full duration-150 bg-indigo-50 hover:bg-indigo-600 hover:text-white active:shadow-lg'>
             All Categories
-          </a>
-          <a
-            href='/'
-            className='mt-3 px-3 py-1 text-gray-700 rounded-full duration-150 bg-indigo-50 hover:bg-indigo-600 hover:text-white active:shadow-lg'>
+          </button>
+          <button className='mt-3 px-3 py-1 text-gray-700 rounded-full duration-150 bg-indigo-50 hover:bg-indigo-600 hover:text-white active:shadow-lg'>
             Art
-          </a>
-          <a
-            href='/'
-            className='mt-3 px-3 py-1 text-gray-700 rounded-full duration-150 bg-indigo-50 hover:bg-indigo-600 hover:text-white active:shadow-lg'>
+          </button>
+          <button className='mt-3 px-3 py-1 text-gray-700 rounded-full duration-150 bg-indigo-50 hover:bg-indigo-600 hover:text-white active:shadow-lg'>
             Celebrities
-          </a>
-          <a
-            href='/'
-            className='mt-3 px-3 py-1 text-gray-700 rounded-full duration-150 bg-indigo-50 hover:bg-indigo-600 hover:text-white active:shadow-lg'>
+          </button>
+          <button className='mt-3 px-3 py-1 text-gray-700 rounded-full duration-150 bg-indigo-50 hover:bg-indigo-600 hover:text-white active:shadow-lg'>
             Gaming
-          </a>
-          <a
-            href='/'
-            className='mt-3 px-3 py-1 text-gray-700 rounded-full duration-150 bg-indigo-50 hover:bg-indigo-600 hover:text-white active:shadow-lg'>
+          </button>
+          <button className='mt-3 px-3 py-1 text-gray-700 rounded-full duration-150 bg-indigo-50 hover:bg-indigo-600 hover:text-white active:shadow-lg'>
             Sport
-          </a>
-          <a
-            href='/'
-            className='mt-3 px-3 py-1 text-gray-700 rounded-full duration-150 bg-indigo-50 hover:bg-indigo-600 hover:text-white active:shadow-lg'>
+          </button>
+          <button className='mt-3 px-3 py-1 text-gray-700 rounded-full duration-150 bg-indigo-50 hover:bg-indigo-600 hover:text-white active:shadow-lg'>
             Music
-          </a>
-          <a
-            href='/'
-            className='mt-3 px-3 py-1 text-gray-700 rounded-full duration-150 bg-indigo-50 hover:bg-indigo-600 hover:text-white active:shadow-lg'>
+          </button>
+          <button className='mt-3 px-3 py-1 text-gray-700 rounded-full duration-150 bg-indigo-50 hover:bg-indigo-600 hover:text-white active:shadow-lg'>
             Crypto
-          </a>
-          <a
-            href='/'
-            className='mt-3 px-3 py-1 ml-auto text-gray-700 rounded-full duration-150 bg-indigo-50 hover:bg-indigo-600 hover:text-white active:shadow-lg'>
+          </button>
+          <button className='mt-3 px-3 py-1 ml-auto text-gray-700 rounded-full duration-150 bg-indigo-50 hover:bg-indigo-600 hover:text-white active:shadow-lg'>
             <span className='flex items-center'>
               <Icon icon='ion:filter' className='inline me-2' />
               All Filters
             </span>
-          </a>
+          </button>
         </div>
         <div className='flex justify-between gap-6'>
           <div className='bg-white rounded-xl shadow-sm'>
@@ -81,11 +65,9 @@ const MarketPlace = () => {
               </div>
               <div className='flex items-center justify-between'>
                 <span className='text-gray-500 text-sm'>3h 50m 2s left</span>
-                <a
-                  href='/'
-                  className='mt-3 px-3 py-1 text-gray-700 border rounded-full border-indigo-600 duration-150 hover:bg-indigo-600 hover:text-white active:shadow-lg'>
+                <button className='mt-3 px-3 py-1 text-gray-700 border rounded-full border-indigo-600 duration-150 hover:bg-indigo-600 hover:text-white active:shadow-lg'>
                   Place a Bid
-                </a>
+                </button>
               </div>
             </div>
           </div>
@@ -115,11 +97,9 @@ const MarketPlace = () => {
               </div>
               <div className='flex items-center justify-between'>
                 <span className='text-gray-500 text-sm'>3h 50m 2s left</span>
-                <a
-                  href='/'
-                  className='mt-3 px-3 py-1 text-gray-700 border rounded-full border-indigo-600 duration-150 hover:bg-indigo-600 hover:text-white active:shadow-lg'>
+                <button className='mt-3 px-3 py-1 text-gray-700 border rounded-full border-indigo-600 duration-150 hover:bg-indigo-600 hover:text-white active:shadow-lg'>
                   Place a Bid
-                </a>
+                </button>
               </div>
             </div>
           </div>
@@ -149,11 +129,9 @@ const MarketPlace = () => {
               </div>
               <div className='flex items-center justify-between'>
                 <span className='text-gray-500 text-sm'>3h 50m 2s left</span>
-                <a
-                  href='/'
-                  className='mt-3 px-3 py-1 text-gray-700 border rounded-full border-indigo-600 duration-150 hover:bg-indigo-600 hover:text-white active:shadow-lg'>
+                <button className='mt-3 px-3 py-1 text-gray-700 border rounded-full border-indigo-600 duration-150 hover:bg-indigo-600 hover:text-white active:shadow-lg'>
                   Place a Bid
-                </a>
+                </button>
               </div>
             </div>
           </div>
@@ -183,11 +161,9 @@ const MarketPlace = () => {
               </div>
               <div className='flex items-center justify-between'>
                 <span className='text-gray-500 text-sm'>3h 50m 2s left</span>
-                <a
-                  href='/'
-                  className='mt-3 px-3 py-1 text-gray-700 border rounded-full border-indigo-600 duration-150 hover:bg-indigo-600 hover:text-white active:shadow-lg'>
+                <button className='mt-3 px-3 py-1 text-gray-700 border rounded-full border-indigo-600 duration-150 hover:bg-indigo-600 hover:text-white active:shadow-lg'>
                   Place a Bid
-                </a>
+                </button>
               </div>
             </div>
           </div>
